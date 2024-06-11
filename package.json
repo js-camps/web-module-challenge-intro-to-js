@@ -1,0 +1,11 @@
+{
+  "name": "web-module-challenge-intro-to",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --forceExit --silent"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
